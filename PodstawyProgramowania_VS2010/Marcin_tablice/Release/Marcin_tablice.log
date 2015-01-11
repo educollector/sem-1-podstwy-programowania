@@ -1,0 +1,34 @@
+﻿Build started 2012-12-01 16:49:33.
+     1>Project "D:\Studia_WWSI\Podstawy programowania\PodstawyProgramowania_VS2010\Marcin_tablice\Marcin_tablice.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Release\Marcin_tablice.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ciag1.cpp
+         ciag1.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.h(35): error C2598: linkage specification must be at global scope
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.h(157): error C2598: linkage specification must be at global scope
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.h(157): error C2951: template declarations are only permitted at global, namespace, or class scope
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.h(161): error C2598: linkage specification must be at global scope
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.h(161): error C2951: template declarations are only permitted at global, namespace, or class scope
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.h(176): error C2598: linkage specification must be at global scope
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.h(176): error C2951: template declarations are only permitted at global, namespace, or class scope
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.h(180): error C2598: linkage specification must be at global scope
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.h(180): error C2951: template declarations are only permitted at global, namespace, or class scope
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.h(196): error C2598: linkage specification must be at global scope
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.h(196): error C2951: template declarations are only permitted at global, namespace, or class scope
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.inl(83): error C2267: 'difftime' : static functions with block scope are illegal
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.inl(87): error C2267: 'ctime' : static functions with block scope are illegal
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.inl(95): error C2267: 'ctime_s' : static functions with block scope are illegal
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.inl(100): error C2267: 'gmtime' : static functions with block scope are illegal
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.inl(108): error C2267: 'gmtime_s' : static functions with block scope are illegal
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.inl(113): error C2267: 'localtime' : static functions with block scope are illegal
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.inl(120): error C2267: 'localtime_s' : static functions with block scope are illegal
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.inl(124): error C2267: 'mktime' : static functions with block scope are illegal
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.inl(128): error C2267: '_mkgmtime' : static functions with block scope are illegal
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.inl(132): error C2267: 'time' : static functions with block scope are illegal
+     1>ciag1.cpp(17): fatal error C1083: Cannot open include file: 'unistd.h': No such file or directory
+     1>Done Building Project "D:\Studia_WWSI\Podstawy programowania\PodstawyProgramowania_VS2010\Marcin_tablice\Marcin_tablice.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.22

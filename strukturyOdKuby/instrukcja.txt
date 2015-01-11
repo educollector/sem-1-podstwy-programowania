@@ -1,0 +1,20 @@
+Naucz siê jak dzia³aj¹ struktury danych w C/C++. Dostarczam przyk³adow¹ strukturê "SampleStruct" 
+oraz przyk³ad jej wykorzystania (jako zmienn¹ i jako wskaŸnik do zmiennej)
+*************************************************************************************************
+
+[done] 	Napisz kawa³ek kodu, który bêdzie tworzy³ powiedzmy 5 ksi¹¿ek i wypisywa³ wszystkie dane o nich 
+		na konsolê, bez u¿ywania funkcji pomocniczych
+
+[done] 	Obczaj jak u¿yæ funkcjê debugPrint zawart¹ w nag³ówku "sample_struct.h"
+
+		Obczaj strukturê SampleList (zbiór powi¹zanych ze sob¹ elementów utworzy listê)
+
+		Spróbuj zaimplementowaæ (zakomentowane) funkcje sampleListXXXXX() (tutaj miêdzy innymi dynamiczna 
+		alokacja i dealokacja pamiêci)
+
+		Obczaj strukturê SampleDoubleList (zbiór powi¹zanych ze sob¹ elementów utworzy listê)
+
+		Spróbuj zaimplementowaæ (zakomentowane) funkcje sampleDoubleListXXXXX() (tutaj miêdzy innymi dynamiczna
+		alokacja i dealokacja pamiêci)
+
+		Napisz program, który umo¿liwia przechowywanie listy ksi¹¿ek, dodawanie, usuwanie i wyszukiwanie dzie³

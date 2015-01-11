@@ -1,0 +1,22 @@
+﻿Build started 2012-12-02 15:17:19.
+     1>Project "D:\Studia_WWSI\Podstawy programowania\PodstawyProgramowania_VS2010\cw6\cw6.vcxproj" on node 4 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\cw6.lastbuildstate".
+       InitializeBuildStatus:
+         Creating "Debug\cw6.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt src\main.cpp
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Studia_WWSI\Podstawy programowania\PodstawyProgramowania_VS2010\Debug\cw6.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\cw6.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Studia_WWSI\Podstawy programowania\PodstawyProgramowania_VS2010\Debug\cw6.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Studia_WWSI\Podstawy programowania\PodstawyProgramowania_VS2010\Debug\cw6.lib" /MACHINE:X86 Debug\main.obj
+         cw6.vcxproj -> D:\Studia_WWSI\Podstawy programowania\PodstawyProgramowania_VS2010\Debug\cw6.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\Studia_WWSI\Podstawy programowania\PodstawyProgramowania_VS2010\Debug\cw6.exe;#1" /manifest Debug\cw6.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\cw6.unsuccessfulbuild".
+         Touching "Debug\cw6.lastbuildstate".
+     1>Done Building Project "D:\Studia_WWSI\Podstawy programowania\PodstawyProgramowania_VS2010\cw6\cw6.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.59

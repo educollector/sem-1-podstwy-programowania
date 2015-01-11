@@ -1,0 +1,25 @@
+﻿Build started 2012-12-02 23:01:41.
+     1>Project "D:\Studia_WWSI\Podstawy programowania\PodstawyProgramowania_VS2010\ciag_cw\ciag_cw.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\ciag_cw.lastbuildstate".
+       InitializeBuildStatus:
+         Creating "Debug\ciag_cw.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ciag_cw.cpp
+         ciag_cw.cpp
+     1>d:\studia_wwsi\podstawy programowania\podstawyprogramowania_vs2010\ciag_cw\ciag_cw.cpp(26): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>d:\studia_wwsi\podstawy programowania\podstawyprogramowania_vs2010\ciag_cw\ciag_cw.cpp(37): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Studia_WWSI\Podstawy programowania\PodstawyProgramowania_VS2010\Debug\ciag_cw.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\ciag_cw.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Studia_WWSI\Podstawy programowania\PodstawyProgramowania_VS2010\Debug\ciag_cw.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Studia_WWSI\Podstawy programowania\PodstawyProgramowania_VS2010\Debug\ciag_cw.lib" /MACHINE:X86 Debug\ciag_cw.obj
+         ciag_cw.vcxproj -> D:\Studia_WWSI\Podstawy programowania\PodstawyProgramowania_VS2010\Debug\ciag_cw.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\Studia_WWSI\Podstawy programowania\PodstawyProgramowania_VS2010\Debug\ciag_cw.exe;#1" /manifest Debug\ciag_cw.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\ciag_cw.unsuccessfulbuild".
+         Touching "Debug\ciag_cw.lastbuildstate".
+     1>Done Building Project "D:\Studia_WWSI\Podstawy programowania\PodstawyProgramowania_VS2010\ciag_cw\ciag_cw.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.60

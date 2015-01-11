@@ -1,0 +1,22 @@
+﻿Build started 2012-12-02 21:40:31.
+     1>Project "D:\Studia_WWSI\Podstawy programowania\PodstawyProgramowania_VS2010\sumEvenTablica\sumEvenTablica.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\ROBOCZE.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ROBOCZE
+         ROBOCZE
+     1>d:\studia_wwsi\podstawy programowania\podstawyprogramowania_vs2010\sumeventablica\robocze(27): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>d:\studia_wwsi\podstawy programowania\podstawyprogramowania_vs2010\sumeventablica\robocze(39): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>d:\studia_wwsi\podstawy programowania\podstawyprogramowania_vs2010\sumeventablica\robocze(55): warning C4996: 'strcmpi': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strcmpi. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(245) : see declaration of 'strcmpi'
+     1>d:\studia_wwsi\podstawy programowania\podstawyprogramowania_vs2010\sumeventablica\robocze(94): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\studia_wwsi\podstawy programowania\podstawyprogramowania_vs2010\sumeventablica\robocze(94): error C2059: syntax error : '>'
+     1>d:\studia_wwsi\podstawy programowania\podstawyprogramowania_vs2010\sumeventablica\robocze(95): error C2143: syntax error : missing ';' before '{'
+     1>d:\studia_wwsi\podstawy programowania\podstawyprogramowania_vs2010\sumeventablica\robocze(99): error C2181: illegal else without matching if
+     1>Done Building Project "D:\Studia_WWSI\Podstawy programowania\PodstawyProgramowania_VS2010\sumEvenTablica\sumEvenTablica.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.24

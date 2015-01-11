@@ -1,0 +1,21 @@
+﻿Build started 2012-12-02 16:22:28.
+     1>Project "D:\Studia_WWSI\Podstawy programowania\PodstawyProgramowania_VS2010\generowanieAutomatyczne\generowanieAutomatyczne.vcxproj" on node 3 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\generowanieAutomatyczne.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt generowanieAutomatyczne.cpp
+         generowanieAutomatyczne.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Studia_WWSI\Podstawy programowania\PodstawyProgramowania_VS2010\Debug\generowanieAutomatyczne.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\generowanieAutomatyczne.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Studia_WWSI\Podstawy programowania\PodstawyProgramowania_VS2010\Debug\generowanieAutomatyczne.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Studia_WWSI\Podstawy programowania\PodstawyProgramowania_VS2010\Debug\generowanieAutomatyczne.lib" /MACHINE:X86 Debug\generowanieAutomatyczne.obj
+         LINK : D:\Studia_WWSI\Podstawy programowania\PodstawyProgramowania_VS2010\Debug\generowanieAutomatyczne.exe not found or not built by the last incremental link; performing full link
+         generowanieAutomatyczne.vcxproj -> D:\Studia_WWSI\Podstawy programowania\PodstawyProgramowania_VS2010\Debug\generowanieAutomatyczne.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\Studia_WWSI\Podstawy programowania\PodstawyProgramowania_VS2010\Debug\generowanieAutomatyczne.exe;#1" /manifest Debug\generowanieAutomatyczne.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\generowanieAutomatyczne.unsuccessfulbuild".
+         Touching "Debug\generowanieAutomatyczne.lastbuildstate".
+     1>Done Building Project "D:\Studia_WWSI\Podstawy programowania\PodstawyProgramowania_VS2010\generowanieAutomatyczne\generowanieAutomatyczne.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.53

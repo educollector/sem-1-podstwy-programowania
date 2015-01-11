@@ -1,0 +1,25 @@
+﻿Build started 2012-12-01 21:06:29.
+     1>Project "D:\Studia_WWSI\Podstawy programowania\PodstawyProgramowania_VS2010\zad_zal2\zad_zal2.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\zad_zal2.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt zad_zal2.cpp
+         zad_zal2.cpp
+     1>zad_zal2.cpp(10): error C2144: syntax error : 'int' should be preceded by ';'
+     1>zad_zal2.cpp(10): error C2133: 'ciag' : unknown size
+     1>zad_zal2.cpp(15): warning C4129: '-' : unrecognized character escape sequence
+     1>zad_zal2.cpp(16): error C2146: syntax error : missing ';' before identifier 'cout'
+     1>zad_zal2.cpp(18): error C2372: 'ciag' : redefinition; different types of indirection
+                 zad_zal2.cpp(8) : see declaration of 'ciag'
+     1>zad_zal2.cpp(22): error C3861: 'time': identifier not found
+     1>zad_zal2.cpp(38): error C2059: syntax error : ';'
+     1>zad_zal2.cpp(63): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>zad_zal2.cpp(68): error C2446: '<' : no conversion from 'int (__cdecl *)(int,char *[])' to 'double'
+                 There is no context in which this conversion is possible
+     1>zad_zal2.cpp(68): error C2440: '<' : cannot convert from 'int (__cdecl *)(int,char *[])' to 'double'
+     1>zad_zal2.cpp(70): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>Done Building Project "D:\Studia_WWSI\Podstawy programowania\PodstawyProgramowania_VS2010\zad_zal2\zad_zal2.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.19
